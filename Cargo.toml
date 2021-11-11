@@ -1,0 +1,10 @@
+[package]
+name = "practice11_rwlock"
+version = "0.1.0"
+authors = ["matsu"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+lazy_static = "1.4.0"
